@@ -1,6 +1,10 @@
-# Task 3: Simple real-world example
+# Task 3: Basic Arithmetic operations
 
-celsius = float(input("Enter temperature in Celsius: "))
-fahrenheit = (celsius * 9/5) + 32
+a = int(input("Enter value of A: "))
+b = int(input("Enter value of B: "))
 
-print(f"Temperature in Fahrenheit : {fahrenheit}")
+print("Addition:", a + b)
+print("Subtraction:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b)
+print("Modulus:", a % b)

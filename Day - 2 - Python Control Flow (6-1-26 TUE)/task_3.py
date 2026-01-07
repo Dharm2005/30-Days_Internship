@@ -1,4 +1,4 @@
-# Logical operators
+# Task 3: Logical operators
 
 age = int(input("Enter age: "))
 
